@@ -18,7 +18,7 @@ body::before{
     left: 0;
     width: 100vw;
     height: 100vh;
-    background: url('../Imagens/wallpaper-70.jpg')no-repeat center top fixed;
+    background: url(../Imagens/pikachu-rainy-day-adventure.jpg)no-repeat center top fixed;
     background-size: cover;
     opacity: 0.5;
     z-index: -1;
